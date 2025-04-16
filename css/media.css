@@ -1,0 +1,430 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+header {
+    padding: 15px 0;
+}
+/* header end */
+/* slider start */
+.c_h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.c_p {
+    margin: 30px 0;
+    text-align: center;
+}
+.btn_car {
+    padding: 5px 25px;
+}
+.cm_np {
+    top: 500PX;
+}
+.c_pr {
+    left: -5px;
+}
+.c_nt {
+    left: 40px;
+}
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 50px;
+}
+.w_h1 {
+    margin: 25px 0 15px;
+    font-size: 25px;
+}
+.w_p {
+    padding: 0 10px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 5px 10px;
+    margin-top: 40px;
+}
+.sb_h2 {
+    margin: 20px 0;
+    font-size: 20px;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 50px;
+}
+.a_text {
+    margin-top: 20px;
+}
+.a_img {
+    padding: 0 0 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 20px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 15px;
+    padding: 7px 15px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 15px 0 10px;
+}
+.rw_n li a{
+    font-size: 12px;
+}
+.rw_img {
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+/* recent_w end */
+/* who choose start */
+.wc_item {
+    text-align: center;
+    margin-top: 25px;
+}
+.cus_ch1 {
+    margin-bottom: 10px;
+}
+/* who choose end */
+/* footer start here */
+.ft_p {
+    margin: 15px 0;
+    padding: 0px 15px;
+}
+.ft_icon {
+    margin-bottom: 15px;
+}
+.ft_icons li a i {
+    padding: 3px 5px;
+    font-size: 20px;
+}
+.ft_pd {
+    padding: 10px 0;
+}
+.ft_left p {
+    font-size: 13px;
+}
+.ft_right {
+    margin-top: 2px;
+    text-align: center;
+}
+.ft_right ul li a {
+    padding: 0 3px;
+    font-size: 13px;
+}
+/* footer end here */
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+header {
+    padding: 15px 0;
+}
+/* header end */
+/* slider start */
+.c_h1 {
+    font-size: 40px;
+}
+.c_p {
+    margin: 35px 0;
+}
+.btn_car {
+    padding: 6px 30px;
+}
+.cm_np {
+    top: 500PX;
+}
+.c_pr {
+    left: -20px;
+}
+.c_nt {
+    left: 30px;
+}
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 60px;
+}
+.w_h1 {
+    margin: 30px 0 20px;
+    font-size: 25px;
+}
+.w_p {
+    padding: 0 15px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 10px 10px;
+    margin-top: 40px;
+}
+.sb_h2 {
+    margin: 25px 0;
+    font-size: 25px;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 50px;
+}
+.a_img {
+    padding: 0 60px 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 25px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 15px;
+    padding: 7px 15px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 20px 0 15px;
+}
+/* recent_w end */
+/* who choose start */
+.cus_ch1 {
+    margin-bottom: 10px;
+}
+.wc_item {
+    margin-top: 25px;
+}
+/* who choose end */
+/* footer start here */
+.ft_p {
+    margin: 15px 0;
+    padding: 0px 110px;
+}
+.ft_icon {
+    margin-bottom: 20px;
+}
+.ft_icons li a i {
+    padding: 3px 5px;
+    font-size: 20px;
+}
+.ft_pd {
+    padding: 10px 0;
+}
+.ft_right {
+    margin-top: 2px;
+    text-align: center;
+}
+.ft_right ul li a {
+    padding: 0 10px;
+}
+/* footer end here */
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+/* header start */
+/* header end */
+/* slider start */
+.c_h1 {
+    font-size: 45px;
+}
+.c_p {
+    margin: 40px 0;
+}
+.btn_car {
+    padding: 10px 40px;
+}
+.cm_np {
+    top: 520PX;
+}
+.c_pr {
+    left: -35px;
+}
+.c_nt {
+    left: 15px;
+}
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 80px;
+}
+.w_h1 {
+    margin: 40px 0 30px;
+}
+.w_p {
+    padding: 0 20px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 15px 30px;
+    margin-top: 50px;
+}
+.sb_h2 {
+    margin: 30px 0;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 60px;
+}
+.a_img {
+    padding: 0 60px 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 35px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 25px;
+    padding: 10px 20px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 30px 0 20px;
+}
+/* recent_w end */
+/* who choose start */
+.cus_ch1 {
+    margin-bottom: 15px;
+}
+.wc_item {
+    margin-top: 30px;
+}
+/* who choose end */
+/* footer start */
+.ft_p {
+    margin: 25px 0;
+    padding: 0px 100px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 35px;
+}
+.ft_pd {
+    padding: 15px 0;
+}
+.ft_icons li a i {
+    padding: 5px 8px;
+    font-size: 15px;
+}
+.ft_left p {
+    font-size: 14px;
+}
+.ft_right ul li a {
+    padding: 0 10px;
+    font-size: 14px;
+}
+/* footer end here */
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* header start */
+/* header end */
+/* slider start */
+.c_pr {
+    left: -50px;
+}
+.c_nt {
+    left: 0;
+}
+/* slider end */
+/* branding start */
+.s_brand {
+    padding: 0 0px 10px;
+}
+.sb_h2 {
+    margin: 35px 0;
+}
+/* branding end */
+/* about start */
+.a_p1 {
+    margin: 15px 0;
+    line-height: 20px;
+}
+.a_p2 {
+    line-height: 20px;
+}
+.a_btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+/* about end */
+/* footer start */
+.ft_p {
+    margin: 25px 0;
+    padding: 0px 30px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 45px;
+}
+.ft_pd {
+    padding: 25px 0;
+}
+/* footer end */
+}
+/* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* slider start */
+.c_pr {
+    left: -65px;
+}
+.c_nt {
+    left: -10px;
+}
+/* slider end */
+/* about start */
+.a_p1 {
+    margin: 30px 0;
+    line-height: 25px;
+}
+.a_text {
+    padding: 0 23px 0;
+}
+.a_btn {
+    margin-top: 30px;
+}
+/* about end */
+/* footer start */
+.ft_p {
+    margin: 30px 0;
+    padding: 0px 73px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 50px;
+}
+/* footer end */
+
+}
+/* Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
