@@ -1,0 +1,942 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+header {
+    padding: 15px 0;
+}
+/* header end */
+/* slider start */
+.cus_ind {
+    right: auto;
+    bottom: -88px;
+    left: -8px;
+}
+.c_ind[data-bs-target]{
+    width: 2px;
+    height: 12px;
+    margin-right: 1px;
+    margin-left: 2px;
+}
+.c_h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.c_p {
+    margin: 30px 0;
+    text-align: center;
+}
+.btn_car {
+    padding: 5px 25px;
+}
+.cm_np {
+    top: 550PX;
+}
+.c_pr {
+    font-size: 14px;
+    left: -5px;
+}
+.c_nt {
+    font-size: 14px;
+    left: 50px;
+}
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 50px;
+}
+.w_h1 {
+    margin: 25px 0 15px;
+    font-size: 25px;
+}
+.w_p {
+    padding: 0 10px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 5px 10px;
+    margin-top: 40px;
+}
+.sb_h2 {
+    margin: 20px 0;
+    font-size: 20px;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 50px;
+}
+.a_text {
+    margin-top: 20px;
+}
+.a_img {
+    padding: 0 0 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 20px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 15px;
+    padding: 7px 15px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 15px 0 10px;
+}
+.rw_n li a{
+    font-size: 12px;
+}
+.rw_img {
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+/* recent_w end */
+/* who choose start */
+.wc_item {
+    text-align: center;
+    margin-top: 25px;
+}
+.cus_ch1 {
+    margin-bottom: 10px;
+}
+/* who choose end */
+/* who work start here */
+.single_item {
+    padding: 5px 5px;
+    margin-top: 70px;
+}
+.m_name {
+    margin: 10px 0 10px 30px;
+}
+.m_desig {
+    margin-bottom: 8px;
+}
+.team {
+    padding-bottom: 100px;
+}
+/* who work end here */
+/* pricing start here */
+.p_item {
+    margin-top: 60px;
+    padding: 25px;
+}
+.pbdt_h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.p_ba {
+    top: -22px;
+}
+.Pbh3 {
+    font-size: 20px;
+}
+.pb_dt ul li {
+    font-size: 16px;
+}
+.pb_btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+/* pricing end here */
+/* Rsp Template start here */
+.rsp_temp {
+    padding: 20px 0;
+}
+.rsp_cnt {
+    text-align: center;
+}
+.rsp_cnt-h3 {
+    font-size: 16px;
+}
+.call_btn {
+    padding: 5px 10px;
+}
+.rsp_btn{
+    margin-top: 20px;
+    text-align: center;
+}
+/* Rsp Template end here */
+/* testimony start here */
+.testimonial {
+    padding: 60px 0;
+}
+.testimonial_btn {
+    padding: 363px 23px;
+}
+.testimonial_content {
+    padding: 0px 5px;
+}
+.test_content {
+    text-align: center;
+}
+.test_img {
+    padding: 5px 25px;
+}
+.test_icon {
+    top: 26px;
+    left: 45px;
+}
+.t_h2 {
+    padding: 10px 0 5px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.t_dg_h3 {
+    margin: 5px 0 10px;
+}
+.t_cont1{
+    line-height: 25px;
+}
+.t_cont2{
+    padding: 10px 0 5px;
+    line-height: 25px;
+}
+.test_ind1 {
+    right: -93px;
+    bottom: 350px;
+}
+.t_ind[data-bs-target] {
+    width: 20px;
+    height: 3px;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.tl_btn{
+    top: 95px;
+}
+.cm_btn {  
+    font-size: 16px;
+    right: -13px;
+}
+.tr_btn{
+    bottom: 95px;
+}
+/* testimony end here */
+/* contact start here */
+.c_content {
+    padding: 0 15px;
+}
+.c_form {
+    padding-top: 60px;
+}
+.c_input {
+    margin-bottom: 20px;
+}
+.submit {
+    margin-bottom: 25px;
+}
+.c_btn {
+    padding: 5px 15px;
+}
+.c_title {
+    padding: 7px 10px;
+}
+.cus_h1 {
+    font-size: 18px;
+}
+/* contact end here */
+/* footer start here */
+.ft_p {
+    margin: 15px 0;
+    padding: 0px 15px;
+}
+.ft_icon {
+    margin-bottom: 15px;
+}
+.ft_icons li a i {
+    padding: 3px 5px;
+    font-size: 20px;
+}
+.ft_pd {
+    padding: 10px 0;
+}
+.ft_left p {
+    font-size: 13px;
+}
+.ft_right {
+    margin-top: 2px;
+    text-align: center;
+}
+.ft_right ul li a {
+    padding: 0 3px;
+    font-size: 13px;
+}
+/* footer end here */
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+header {
+    padding: 15px 0;
+}
+/* header end */
+/* slider start */
+.cus_ind {
+    right: auto;
+    bottom: -106px;
+    left: -46px;
+}
+.c_ind[data-bs-target]{
+    width: 2px;
+    height: 13px;
+    margin-right: 1px;
+    margin-left: 2px;
+}
+.c_h1 {
+    font-size: 40px;
+}
+.c_p {
+    margin: 35px 0;
+}
+.btn_car {
+    padding: 6px 30px;
+}
+.cm_np {
+    top: 500PX;
+}
+.c_pr {
+    font-size: 14px;
+    left: -25px;
+}
+.c_nt {
+    font-size: 14px;
+    left: 25px;
+}
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 60px;
+}
+.w_h1 {
+    margin: 30px 0 20px;
+    font-size: 25px;
+}
+.w_p {
+    padding: 0 15px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 10px 10px;
+    margin-top: 40px;
+}
+.sb_h2 {
+    margin: 25px 0;
+    font-size: 25px;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 50px;
+}
+.a_img {
+    padding: 0 60px 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 25px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 15px;
+    padding: 7px 15px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 20px 0 15px;
+}
+/* recent_w end */
+/* who choose start */
+.cus_ch1 {
+    margin-bottom: 10px;
+}
+.wc_item {
+    margin-top: 25px;
+}
+/* who choose end */
+/* who work start here */
+.single_item {
+    margin-top: 75px;
+}
+.team {
+    padding-bottom: 100px;
+}
+/* who work end here */
+/* pricing start here */
+.p_item {
+    margin-top: 60px;
+    padding: 25px;
+}
+.pbdt_h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.p_ba {
+    top: -22px;
+}
+.Pbh3 {
+    font-size: 20px;
+}
+.pb_dt ul li {
+    font-size: 14px;
+}
+.pb_btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+/* pricing end here */
+/* Rsp Template start here */
+.rsp_temp {
+    padding: 20px 0;
+}
+.rsp_cnt {
+    text-align: center;
+}
+.call_btn {
+    padding: 5px 15px;
+}
+.rsp_btn{
+    margin-top: 30px;
+    text-align: center;
+}
+/* Rsp Template end here */
+/* testimony start here */
+.testimonial {
+    padding: 60px 0;
+}
+.testimonial_btn {
+    padding: 383px 30px;
+}
+.testimonial_content {
+    padding: 0px 5px;
+}
+.test_content {
+    text-align: center;
+}
+.test_img {
+    padding: 5px 25px;
+}
+.test_icon {
+    top: 26px;
+    left: 45px;
+}
+.t_h2 {
+    padding: 10px 0 5px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.t_dg_h3 {
+    margin: 5px 0 10px;
+}
+.t_cont1{
+    line-height: 25px;
+}
+.t_cont2{
+    padding: 10px 0 5px;
+    line-height: 25px;
+}
+.test_ind1 {
+    right: -93px;
+    bottom: 350px;
+}
+.t_ind[data-bs-target] {
+    width: 20px;
+    height: 3px;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.tl_btn{
+    top: 95px;
+}
+.cm_btn {  
+    font-size: 16px;
+    right: -13px;
+}
+.tr_btn{
+    bottom: 95px;
+}
+/* testimony end here */
+/* contact start here */
+.c_content {
+    padding: 0 15px;
+}
+.c_form {
+    padding-top: 60px;
+}
+.c_input {
+    margin-bottom: 25px;
+}
+.submit {
+    margin-bottom: 30px;
+}
+.c_btn {
+    padding: 5px 15px;
+}
+.c_title {
+    padding: 10px 15px;
+}
+.cus_h1 {
+    font-size: 20px;
+}
+/* contact end here */
+/* footer start here */
+.ft_p {
+    margin: 15px 0;
+    padding: 0px 110px;
+}
+.ft_icon {
+    margin-bottom: 20px;
+}
+.ft_icons li a i {
+    padding: 3px 5px;
+    font-size: 20px;
+}
+.ft_pd {
+    padding: 10px 0;
+}
+.ft_right {
+    margin-top: 2px;
+    text-align: center;
+}
+.ft_right ul li a {
+    padding: 0 10px;
+}
+/* footer end here */
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+/* header start */
+/* header end */
+/* slider start */
+.cus_ind {
+    right: auto;
+    bottom: -117px;
+    left: -68px;
+}
+.c_ind[data-bs-target]{
+    width: 2px;
+    height: 13px;
+    margin-right: 1px;
+    margin-left: 2px;
+}
+.c_h1 {
+    font-size: 45px;
+}
+.c_p {
+    margin: 40px 0;
+}
+.btn_car {
+    padding: 10px 40px;
+}
+.cm_np {
+    top: 520PX;
+}
+.c_pr {
+    font-size: 14px;
+    left: -35px;
+}
+.c_nt {
+    font-size: 14px;
+    left: 18px;
+}
+
+/* slider end */
+/* welcome start here */
+.c_pd {
+    padding-bottom: 80px;
+}
+.w_h1 {
+    margin: 40px 0 30px;
+}
+.w_p {
+    padding: 0 20px;
+}
+/* welcome end here */
+/* branding start */
+.s_brand {
+    padding: 0 15px 30px;
+    margin-top: 50px;
+}
+.sb_h2 {
+    margin: 30px 0;
+}
+/* branding end */
+/* about start */
+.c_pd {
+    padding-bottom: 60px;
+}
+.a_img {
+    padding: 0 60px 0;
+}
+.a_h1 {
+    font-size: 25px;
+}
+.a_p1 {
+    margin: 35px 0;
+}
+
+.a_text{
+    margin-top: 30px;
+    padding: 0 25px 0;
+    text-align: center;
+}
+.a_btn {
+    margin-top: 25px;
+    padding: 10px 20px;
+}
+/* about end */
+/* recent_w start */
+.rw_mn {
+    margin: 30px 0 20px;
+}
+/* recent_w end */
+/* who choose start */
+.cus_ch1 {
+    margin-bottom: 15px;
+}
+.wc_item {
+    margin-top: 30px;
+}
+/* who choose end */
+/* who work start here */
+.single_item {
+    margin-top: 80px;
+}
+.team {
+    padding-bottom: 100px;
+}
+/* who work end here */
+/* pricing start here */
+.p_item {
+    margin-top: 60px;
+    padding: 25px;
+}
+.pbdt_h3 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.p_ba {
+    top: -22px;
+}
+.Pbh3 {
+    font-size: 20px;
+}
+.pb_dt ul li {
+    font-size: 16px;
+}
+.pb_btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+/* pricing end here */
+/* Rsp Template start here */
+.rsp_temp {
+    padding: 20px 0;
+}
+.call_btn {
+    padding: 5px 20px;
+}
+/* Rsp Template end here */
+/* testimony start here */
+.testimonial {
+    padding: 80px 0;
+}
+.testimonial_btn {
+    padding: 176px 30px;
+}
+.testimonial_content {
+    padding: 0px 5px;
+}
+.test_icon {
+    top: 80px;
+    left: 10px;
+}
+.test_icon i {
+    font-size: 25px;
+}
+.t_h2 {
+    padding: 10px 0 5px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.t_dg_h3 {
+    margin: 5px 0 10px;
+}
+.t_cont1{
+    line-height: 25px;
+}
+.t_cont2{
+    padding: 10px 0 5px;
+    line-height: 25px;
+}
+.test_ind1 {
+    right: -34px;
+    bottom: 150px;
+}
+.t_ind[data-bs-target] {
+    width: 20px;
+    height: 3px;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.tl_btn{
+    top: 95px;
+}
+.cm_btn {  
+    font-size: 16px;
+    right: -13px;
+}
+.tr_btn{
+    bottom: 95px;
+}
+/* testimony end here */
+/* contact start here */
+.c_form {
+    padding-top: 80px;
+}
+.c_input {
+    margin-bottom: 25px;
+}
+.submit {
+    margin-bottom: 30px;
+}
+.c_btn {
+    padding: 10px 20px;
+}
+.c_title {
+    padding: 10px 15px;
+}
+.cus_h1 {
+    font-size: 26px;
+}
+/* contact end here */
+/* footer start */
+.ft_p {
+    margin: 25px 0;
+    padding: 0px 100px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 35px;
+}
+.ft_pd {
+    padding: 15px 0;
+}
+.ft_icons li a i {
+    padding: 5px 8px;
+    font-size: 15px;
+}
+.ft_left p {
+    font-size: 14px;
+}
+.ft_right ul li a {
+    padding: 0 10px;
+    font-size: 14px;
+}
+/* footer end here */
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* header start */
+/* header end */
+/* slider start */
+.cus_ind {
+    right: auto;
+    bottom: -113px;
+    left: -98px;
+}
+.c_ind[data-bs-target]{
+    width: 2px;
+    height: 13px;
+    margin-right: 1px;
+    margin-left: 2px;
+}
+.c_pr {
+    left: -50px;
+}
+.c_nt {
+    left: 10px;
+}
+/* slider end */
+/* branding start */
+.s_brand {
+    padding: 0 0px 10px;
+}
+.sb_h2 {
+    margin: 35px 0;
+}
+/* branding end */
+/* about start */
+.a_p1 {
+    margin: 15px 0;
+    line-height: 20px;
+}
+.a_p2 {
+    line-height: 20px;
+}
+.a_btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+/* about end */
+/* who work start here */
+.single_item {
+    margin-top: 80px;
+}
+.team {
+    padding-bottom: 120px;
+}
+/* who work end here */
+/* pricing start here */
+.p_item {
+    margin-top: 80px;
+    padding: 25px;
+}
+.pbdt_h3 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.p_ba {
+    top: -22px;
+}
+.Pbh3 {
+    font-size: 20px;
+}
+.pb_dt ul li {
+    font-size: 14px;
+}
+.pb_btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+/* pricing end here */
+/* Rsp Template start here */
+.rsp_temp {
+    padding: 25px 0;
+}
+/* Rsp Template end here */
+/* testimony start here */
+.testimonial_btn {
+    padding: 205px 30px;
+}
+.test_ind1 {
+    right: -40px;
+    bottom: 170px;
+}
+.tl_btn{
+    top: 115px;
+}
+.cm_btn {  
+    font-size: 18px;
+}
+.tr_btn{
+    bottom: 115px;
+}
+/* testimony end here */
+/* contact start here */
+.c_title {
+    padding: 10px 15px;
+}
+.cus_h1 {
+    font-size: 26px;
+}
+/* contact end here */
+/* footer start */
+.ft_p {
+    margin: 25px 0;
+    padding: 0px 30px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 45px;
+}
+.ft_pd {
+    padding: 25px 0;
+}
+/* footer end */
+}
+/* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* slider start */
+.cus_ind {
+    right: auto;
+    bottom: -114px;
+    left: -127px;
+}
+.c_ind[data-bs-target]{
+    width: 2px;
+    height: 14px;
+    margin-right: 1px;
+    margin-left: 2px;
+}
+.c_pr {
+    left: -65px;
+}
+.c_nt {
+    left: -5px;
+}
+/* slider end */
+/* about start */
+.a_p1 {
+    margin: 30px 0;
+    line-height: 25px;
+}
+.a_text {
+    padding: 0 23px 0;
+}
+.a_btn {
+    margin-top: 30px;
+}
+/* about end */
+/* testimony start here */
+.testimonial_btn {
+    padding: 217px 35px;
+}
+.test_ind1 {
+    right: -45px;
+    bottom: 190px;
+}
+.tl_btn{
+    top: 130px;
+}
+.tr_btn{
+    bottom: 130px;
+}
+
+/* testimony end here */
+/* footer start */
+.ft_p {
+    margin: 30px 0;
+    padding: 0px 73px;
+    color: var(--wh);
+}
+.ft_icon {
+    margin-bottom: 50px;
+}
+/* footer end */
+
+}
+/* Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
